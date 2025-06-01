@@ -3,7 +3,239 @@
     "name": " 𝐏𝐄𝐋𝐈𝐂𝐔𝐋𝐀𝐒 𝐄𝐒𝐓𝐑𝐄𝐍𝐎𝐒 𝟐𝟎𝟐𝟓",
     "mode": false,
     "lista": [
-	      {
+	{
+    "name": "Minecraft (2025)",
+    "ico": "https://image.tmdb.org/t/p/original/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74oPUP8dzL5BO+/Ioaf36W9eAbKfUs+ptv+hYt9dhWsUkA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Blancanieves",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eaEGthsGmYfGvyOJZguxlcNj378.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O3YTe3Xk/v0dpq60RB7WWUEm2a9nknNfg6p3NxEsKOhlg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Las vidas de Sing Sing",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1x5yWfgpEUxF8kg62ooukLfVbCI.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O2UTwCJMceOb7n2Q6lU+WuR8Vv13rwwMZ7aZGgRP06pJw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Revelación",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O3PSe68/o/yD6bg8JxQFxD3Qi/9OHrbPjj7DCqpQRrcOw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "En un confín del mundo",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dI5eWAvq68mddW6JkRodywrOBF.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O054+G0JHqktBM/owTGhpseKowoMk9+BYbJNGytSdNL4Q==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Duplicidad",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O2PreTGzLCEpe3a+0aI3XAQOSy21aGI8YqZUTxUKjzYyg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "O'Dessa ",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O12kONqVqmi8zHPG9kM5XKUCD/7nx8i/+yBlv83a/scRA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Tornado. Atrapados en la tormenta",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggXb37lX9gW4SR7kpMaraXDFeFR.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O23edJ8bj9SAii/GBjX7mP9E5VxFK3Mv110oL7oiGEZo9So+XvdrmMG0Jd6AlzgF8UtSkEYI4rp7wWkaqIVZwJF",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Confidencial (Black Bag)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/10mptwEjRHIzCPrQOpoqJsolrKv.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O0sIZUhd2nFRCCogNyNAqj2T4WZJK7SM8nUQasGTEESlQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "El Jardinero",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9SrxVaRhBNKf95vns1ti13yzl0.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O1QhzKbVmzU98t+L6/X8aagW8rg61r8tjooPzi/fI0jk8mO0Srd9PgAA5UxXMdJdA8=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Estado eléctrico",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O3fQ56/D2jTzhWlZOGR10jRlIaVYDZ3N1po6IVmvQxlMRG72PRPijOwZCPmXXcI9dM=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "The Parenting",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+    "uri": "o/rBQw6cvPHiWMIoHFgrV2Cbd0WwHeJBerul2PPO9O3e3vG1G5JPkxXXUyIg6ww+vbX3PIr04+YYR/O7NbfBRtuLFM0g2pX4F452xR4Qe1U=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Bastion 36 (2025)",
+    "ico": "https://image.tmdb.org/t/p/original/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74qwVVkJ/YDRaDSzUyTg0bNCE/vomaMrf3wnEhML51ToCQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Oni Goroshi (2025)",
+    "ico": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74qPVQY+2JuE5YIhbmfTQ3+x7+aAyT8As5fLjpMjwAryxytYHOAZuJMmSttoQhU/mf3jvSHxn317n4hJ3+bQkryf",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Amor Explosivo (2025)",
+    "ico": "https://image.tmdb.org/t/p/original/od7Cj1kM0JBqz0NuGHUumOOE476.jpg",
+    "uri": "Mo7JpeR0HxmThRviti8QIl+zMUGwKRQzYkZ4BMIF0JFiSV97OEhkFuXBnz+siUncrUYQdwxFFcLQ6S3wOKysvg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Hombre lobo (2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74rBMkKDvU3mqgwjrYhWcjuggAqSIcn5KGFN7ZAHRfTeGw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Emilia perez (2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74pQ9hkgXqihpGSp5QU1C4E3GHgmOqrM7r4efcCp/wJ/CQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Alarum(2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjDs56iwx4i29VQ1RbSkqO9RUyU.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74pwdALVHOAwmmAw8+jAInnxGefvU8RapwxOIzVLA4ksvw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "La otra boda(2025)",
+    "ico": "https://image.tmdb.org/t/p/w300/k9qOMi7MhiNKOjtax8V023vJgDS.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74oLbuOULfgStepgrV0eok6AiWOjUeArSkltTD+EKC/8Ag==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Un completo desconocido(2025)",
+    "ico": "https://image.tmdb.org/t/p/w300/wd8mZUS2bFV4I6Q2VgkOIQu6Q2I.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74qXAtXAyM06+nn8rgvV7uoKQb+keyjD08bG7VLnDHJvvgiRSRzIkTgPV4JYTMP7HCU=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "La compañera perfecta(2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nyloao2GWttUvS7KVcEM2eSDwUn.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74pxYPlm9742cED03VM227Q2Q/OLAD30BKEVZczoy6jkXFwUxLIto4Ysp7eacvUV8F8=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Amenaza en el aire (2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8T6nkYb4W8BIeafmFffyfsRciTL.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74oI31t2iK/YP29CQURddVwWnvsfQ5rBWWPBe7vW0LUrLa6gnf9LkAi8wywO3Tdky1g=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Bogota (2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9HX27GAOdmmBnnUgQEnvsXftaGA.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74oz+s6h951kd0m43UGvEHXyf02ayNH4LQzX7d1h6v3PQw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Algo embarazada (2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lpMXvcdOnEg4rvsIjWEImhHI1aH.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74oS3OuiZmuOij+WKy7OiTFKSIX61dpgiuBgg3miatc9RFNKQQQzyJIcqbn9uRyKe94=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Capitan america (2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74piQyEJkMOYircd20M68ZneVBx8yblsrS9UuzkdB4t6YobikyYJtjZAn544ZWYZPKQ=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "El maravilloso mago de oz(2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74oyunhyHG6RAJ8aOGOdec5qU70fqzSdhAdMRCmfxhhN8An4uOiRworgYC6G/KrFdOY=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Las aventuras de dog man(2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74ohHWcumV+gmHhzg8e0+vMGldJM0O0G/DUvH9/943H9DfM7UP/XxYnemxqEVehLkUk=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "Henry danger(2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dTHEq2PIRAIq4COayxraiGiaajX.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74pMhxuMcg26eSqTMTpnOMwwNOmlzBlSrJe2sDU9DNzR241Ce+hA77x4geAKvxMle9E=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+  {
+    "name": "El mono(2025)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+    "uri": "+N0P2DXkEhiQqcHU9xQ+BnRg8K9aPBH5O9e3Tgwi74ox/+UnFdygt8C8C9phUNYvh9ctuiF9DvyK2oAlEzF23g==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": null
+  },
+	{
     "name": "PADDINGTON EN PERÚ (2025)",
     "ico": "https://i.ibb.co/7nX98JP/6786f77615f0b.jpg",
     "uri": "JKrdoGt5V2rJPT0EpfiRDpklTtsEO6pnzjxWBQQEShD398yqAq1qo9LwAo/+Sau5/NTtc8+3VZLc/+itSpsMNS1WnfEbxv2fdDzxf/vTdBa6tTBCRwWnIdgp4pdWd/rB",
